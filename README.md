@@ -1,2 +1,2 @@
-# car-parts-price-watcher
-Async FastAPI service for tracking and comparing car spare parts prices across multiple marketplaces, with history storage and price drop alerts.
+# universal-price-watcher
+Async FastAPI service for tracking and comparing prices of car parts and PC components across multiple marketplaces, with history storage and price drop alerts.
